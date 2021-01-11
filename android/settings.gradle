@@ -1,0 +1,2 @@
+rootProject.name = 'TFLite Cassava Disease Classification'
+include ':app'
